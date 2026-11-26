@@ -1,0 +1,19 @@
+[project]
+name = "project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Abdul Rehman", email = "abrrehman387@gmail.com" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi[standard]>=0.124.4",
+    "langchain>=1.4.10",
+    "langchain-openai>=1.7.4",
+    "langfuse>=4.18.0",
+    "langgraph-supervisor>=0.0.31",
+    "psycopg[binary]>=3.3.9",
+    "sqlmodel>=0.0.49",
+]
+
