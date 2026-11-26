@@ -10,7 +10,6 @@ LangGraph, and Next.js.
 - **`Dev-Team-Frontend/`** — Next.js interface for the development-team service.
 - **`Backend/`** — FastAPI service for the standalone Xander assistant.
 - **`Frontend/`** — Next.js client for the standalone assistant.
-- **`xander-bot/`** — related bot prototype.
 
 Each project may have its own dependencies and configuration. See its README
 for project-specific details.
